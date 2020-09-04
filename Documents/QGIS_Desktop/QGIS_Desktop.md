@@ -39,7 +39,7 @@ Ticketsystem opengis.ch: https://app.hive.com/signin
 
 Supportvertrag opengis.ch: https://www.pastel.io/users/sign_in
 
-### Releasplanung
+### Releaseplanung
 Die Update-Zeitpunkte richten sich nach der Releaseplanung von QGIS. Das AGI führt ca. alle 4 Monate Updates durch. Das heisst, die neue LTR-Version wird mit dem Erscheinen von Version x.x.1 installiert. Ca. 4 Monate später wird die Bugfix-Version x.x.5 installiert, ca. 4 Monate später wird die Bugfix-Version x.x.9 installiert.
 
 **Umgang mit Blocker-Bugs nach Inbetriebnahme**
@@ -52,7 +52,7 @@ Falls sich ein Release von Seite QGIS her verzögern sollte, nimmt das AGI in Ka
 
 AIO Releaseplanung: https://intraso.rootso.org/fileadmin/intranet/fd/fd-aio/fd-aio-allgemein/pdf/Releaseplanung.pdf
 
-QGIS Releasplanung: https://qgis.org/en/site/getinvolved/development/roadmap.html?highlight=release
+QGIS Releaseplanung: https://qgis.org/en/site/getinvolved/development/roadmap.html#release-schedule
 
 
 ## Testing
